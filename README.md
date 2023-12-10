@@ -1,4 +1,4 @@
-## Title: Thomas Fire Air Quality and False Color Image
+## Title: Thomas Fire Temporal and Spatial Analyses: Air Quality Timeseries and False Color Image of Infrared
 
 ## Purpose of Repository
 
